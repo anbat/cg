@@ -93,7 +93,7 @@ void display()
     glClear(GL_COLOR_BUFFER_BIT);
     glColor3f(0.0,1.0,0.0);
     drawText(200,200,0.5,"Scanline Filling Algorithm");
-        drawText(200,150,0.6,"NAME : PRAJWAL H P    USN : 1BI15CS116   BATCH : C-2");
+        drawText(200,150,0.6,"NAME:Praveen Kamate USN : 1BI15CS120 BATCH:C-2");
 
 
     switch(value)
